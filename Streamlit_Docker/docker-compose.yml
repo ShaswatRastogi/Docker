@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  fulldocker:
-    image: fulldocker
-    build:
-      context: .
-      dockerfile: ./Dockerfile
